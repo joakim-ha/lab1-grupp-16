@@ -1,5 +1,6 @@
 Dagbok: 
 https://docs.google.com/spreadsheets/d/1O8VXlpZWLq_PviZEkQg06-HVx9sbvTFRD7GGnKoG8-I/edit?usp=sharing
 
+
 Kravspec:
 https://docs.google.com/document/d/1MfUIa6d0xP3KFfAHXHUpus6areDNr7BTBVZ373QBUvI/edit?usp=sharing
